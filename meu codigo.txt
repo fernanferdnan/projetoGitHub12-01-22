@@ -1,2 +1,3 @@
 Ola! I'm Fernando.
-Primeira auteração no código!
+Primeira alteração no código!
+Segunda alteração.
